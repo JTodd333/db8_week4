@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGlab", "RPGlab\RPGlab.csproj", "{68B332B6-2BDE-4438-B670-E40653AC47CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaApp", "MediaApp\MediaApp.csproj", "{9E27E172-4A87-465C-A1C4-7A465DA18D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAppPt2", "MediaAppPt2\MediaAppPt2.csproj", "{CCC3FDD1-7602-407E-871E-9CBE7696704C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,14 @@ Global
 		{68B332B6-2BDE-4438-B670-E40653AC47CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B332B6-2BDE-4438-B670-E40653AC47CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B332B6-2BDE-4438-B670-E40653AC47CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E27E172-4A87-465C-A1C4-7A465DA18D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E27E172-4A87-465C-A1C4-7A465DA18D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E27E172-4A87-465C-A1C4-7A465DA18D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E27E172-4A87-465C-A1C4-7A465DA18D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC3FDD1-7602-407E-871E-9CBE7696704C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC3FDD1-7602-407E-871E-9CBE7696704C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC3FDD1-7602-407E-871E-9CBE7696704C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC3FDD1-7602-407E-871E-9CBE7696704C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
