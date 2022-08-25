@@ -19,7 +19,7 @@ class Media
         Genre = _Genre;
     }
 
-    public virtual void Play()
+    public virtual void Play()    //virtual needed in order to override in other classes
     {
         Console.WriteLine("The media is playing.");
     }
