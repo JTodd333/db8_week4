@@ -3,44 +3,50 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimePractice", "DateTimePractice\DateTimePractice.csproj", "{A40DB2CC-57C7-45E0-A197-6C87785C1529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimePractice", "DateTimePractice\DateTimePractice.csproj", "{A40DB2CC-57C7-45E0-A197-6C87785C1529}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListInitConstruct", "ListInitConstruct\ListInitConstruct.csproj", "{87F8B5B3-73D3-4B36-BAB1-1D3219D66DCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListInitConstruct", "ListInitConstruct\ListInitConstruct.csproj", "{87F8B5B3-73D3-4B36-BAB1-1D3219D66DCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListInitConstruc2", "ListInitConstruc2\ListInitConstruc2.csproj", "{BBF74C93-1B49-4A71-BC44-27058CCCBAF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListInitConstruc2", "ListInitConstruc2\ListInitConstruc2.csproj", "{BBF74C93-1B49-4A71-BC44-27058CCCBAF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListOfObjects", "ListOfObjects\ListOfObjects.csproj", "{717A4376-292F-4214-81F1-82A38FBC4712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfObjects", "ListOfObjects\ListOfObjects.csproj", "{717A4376-292F-4214-81F1-82A38FBC4712}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A110C02-2AFC-4B41-A3B7-FAED76CF95D4}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mammals", "Mammals\Mammals.csproj", "{9B871B02-77B6-4F09-A0A5-564FFFF14011}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mammals", "Mammals\Mammals.csproj", "{9B871B02-77B6-4F09-A0A5-564FFFF14011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{B134C17D-6E0C-4FE9-AEA4-E12DF00D5DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{B134C17D-6E0C-4FE9-AEA4-E12DF00D5DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGlab", "RPGlab\RPGlab.csproj", "{68B332B6-2BDE-4438-B670-E40653AC47CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPGlab", "RPGlab\RPGlab.csproj", "{68B332B6-2BDE-4438-B670-E40653AC47CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaApp", "MediaApp\MediaApp.csproj", "{9E27E172-4A87-465C-A1C4-7A465DA18D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaApp", "MediaApp\MediaApp.csproj", "{9E27E172-4A87-465C-A1C4-7A465DA18D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAppPt2", "MediaAppPt2\MediaAppPt2.csproj", "{CCC3FDD1-7602-407E-871E-9CBE7696704C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaAppPt2", "MediaAppPt2\MediaAppPt2.csproj", "{CCC3FDD1-7602-407E-871E-9CBE7696704C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsedCarLotLab", "UsedCarLotLab\UsedCarLotLab.csproj", "{A8AD080A-C732-492A-84B6-16B6EB51E95D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsedCarLotLab", "UsedCarLotLab\UsedCarLotLab.csproj", "{A8AD080A-C732-492A-84B6-16B6EB51E95D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsedCarLotJeff", "UsedCarLotJeff\UsedCarLotJeff.csproj", "{E77671F2-07D0-4E86-A9A3-2748441FDBD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsedCarLotJeff", "UsedCarLotJeff\UsedCarLotJeff.csproj", "{E77671F2-07D0-4E86-A9A3-2748441FDBD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetterSetterDemo", "GetterSetterDemo\GetterSetterDemo.csproj", "{2D6E86BA-8142-4CA3-978E-E44BE1D7F220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetterSetterDemo", "GetterSetterDemo\GetterSetterDemo.csproj", "{2D6E86BA-8142-4CA3-978E-E44BE1D7F220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{6F5C704A-4DF9-4F95-83DE-EFECDED0AA82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{6F5C704A-4DF9-4F95-83DE-EFECDED0AA82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractDemo", "AbstractDemo\AbstractDemo.csproj", "{7BDC85BD-D27B-4917-9DC0-70C7E41F63CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractDemo", "AbstractDemo\AbstractDemo.csproj", "{7BDC85BD-D27B-4917-9DC0-70C7E41F63CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemo2", "PropertiesDemo2\PropertiesDemo2.csproj", "{8E400B4F-80EB-447C-8BFC-F3ACD8E318F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesDemo2", "PropertiesDemo2\PropertiesDemo2.csproj", "{8E400B4F-80EB-447C-8BFC-F3ACD8E318F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemoBest", "PropertiesDemoBest\PropertiesDemoBest.csproj", "{6FCA7A80-041D-45EA-8D5F-26B0461A8C7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesDemoBest", "PropertiesDemoBest\PropertiesDemoBest.csproj", "{6FCA7A80-041D-45EA-8D5F-26B0461A8C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoshamboLab", "RoshamboLab\RoshamboLab.csproj", "{0EF2C565-3EF4-4027-BB19-85FF0ECC6827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoshamboLab", "RoshamboLab\RoshamboLab.csproj", "{0EF2C565-3EF4-4027-BB19-85FF0ECC6827}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritancePractice", "InheritancePractice\InheritancePractice.csproj", "{751663A1-4DBA-4436-BC25-E3898ADB277A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlockbusterExercise", "BlockbusterExercise\BlockbusterExercise.csproj", "{FE14677E-763F-47E8-BE35-78282C4D826C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercises", "Exercises\Exercises.csproj", "{971CB7A8-07AE-4CAA-B053-C2D9AECC2E0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -116,6 +122,18 @@ Global
 		{0EF2C565-3EF4-4027-BB19-85FF0ECC6827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EF2C565-3EF4-4027-BB19-85FF0ECC6827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EF2C565-3EF4-4027-BB19-85FF0ECC6827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751663A1-4DBA-4436-BC25-E3898ADB277A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751663A1-4DBA-4436-BC25-E3898ADB277A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751663A1-4DBA-4436-BC25-E3898ADB277A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751663A1-4DBA-4436-BC25-E3898ADB277A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE14677E-763F-47E8-BE35-78282C4D826C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE14677E-763F-47E8-BE35-78282C4D826C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE14677E-763F-47E8-BE35-78282C4D826C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE14677E-763F-47E8-BE35-78282C4D826C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971CB7A8-07AE-4CAA-B053-C2D9AECC2E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971CB7A8-07AE-4CAA-B053-C2D9AECC2E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971CB7A8-07AE-4CAA-B053-C2D9AECC2E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971CB7A8-07AE-4CAA-B053-C2D9AECC2E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
